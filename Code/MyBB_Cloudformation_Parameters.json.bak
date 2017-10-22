@@ -17,7 +17,7 @@
         },
         {
             "ParameterKey": "AdministratorEmail", 
-            "ParameterValue": "kishore_rajasekharuni@yahoo.com", 
+            "ParameterValue": "administrator@your-email-domain.com", 
             "UsePreviousValue": true
         },
         {
